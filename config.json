@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "flask-web-forms",
+      "title": "Interactive Web Forms with Python Flask",
+      "description": "Build a simple Flask web app with form handling and response rendering.",
+      "path": "assignments/flask-web-forms",
+      "dueDate": "2026-06-21"
     }
   ]
 }
